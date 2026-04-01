@@ -1,0 +1,10 @@
+From
+run
+copy
+env
+workdir
+cmd
+entrypoint
+volume
+expose
+label
